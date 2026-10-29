@@ -95,6 +95,8 @@ Filen [`docs/receptmall.json`](receptmall.json) innehåller samma objekt att utg
 
 ## 4. Bilder – huvudbilder och bilder per instruktionssteg
 
+**Viktigt för framtida kokbok:** Följ även [bildstandarden](bildstandard.md). Bevara alltid fullupplöst original i separat arkiv innan du skapar webbkopia. Webbversionen i GitHub får aldrig vara den enda bevarade versionen av en bild.
+
 Rekommenderad mappstruktur för varje recept:
 
 ```text
