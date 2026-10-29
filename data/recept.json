@@ -392,5 +392,45 @@
       }
     ],
     "anteckningar": "Mjölet är valfritt och kan eventuellt uteslutas. Smör, dill och Trocomare saknar exakta mängdangivelser i grundreceptet."
+  },
+  {
+    "id": "curry-madras",
+    "titel": "Curry Madras (kopia på WGS)",
+    "huvudkategori": "Kryddblandningar",
+    "taggar": [
+      "Grundrecept",
+      "Kryddor",
+      "Hemmagjort"
+    ],
+    "portioner": "Ca 20 g kryddblandning",
+    "beskrivning": "Ett försök att återskapa Werners Gourmetservice Curry Madras, som inte längre finns att köpa. Blandningen är framtagen med hjälp av ChatGPT.",
+    "bilder": [],
+    "ingredienser": [
+      "7 g korianderfrö (malda efter rostning)",
+      "5 g gurkmeja (mald)",
+      "2 g gula senapsfrö (malda efter rostning)",
+      "2 g spiskummin (mald efter rostning)",
+      "1,4 g chilipulver",
+      "1 g bockhornsklöverfrö (malda efter rostning)",
+      "0,8 g salt",
+      "0,4 g svartpeppar (mald)",
+      "0,2 g vitlökspulver",
+      "0,2 g fänkålsfrö (malda efter rostning)"
+    ],
+    "instruktioner": [
+      {
+        "text": "Rosta korianderfrö, senapsfrö, spiskummin, bockhornsklöverfrö och fänkålsfrö i torr panna på medelvärme i cirka 1 minut tills det doftar. Rosta absolut inte för länge – då blir kryddorna bittra."
+      },
+      {
+        "text": "Låt fröna svalna och mal dem sedan till pulver."
+      },
+      {
+        "text": "Blanda det nymalda kryddpulvret med gurkmeja, chilipulver, salt, svartpeppar och vitlökspulver."
+      },
+      {
+        "text": "Förvara i en lufttät burk, mörkt och svalt."
+      }
+    ],
+    "anteckningar": "Hemmagjord kopia av Werners Gourmetservice Curry Madras (WGS), framtagen med hjälp av ChatGPT. Originalblandningen säljs inte längre enligt receptets upphovsperson. Prova och justera kryddbalansen efter smak."
   }
 ]
