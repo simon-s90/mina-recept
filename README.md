@@ -18,7 +18,7 @@ Första versionen av en recepthemsida i gammaldags skånsk allmogestil, avsedd f
 
 ## Bildkvalitet för webb och framtida kokbok
 
-Se [bildstandarden](docs/bildstandard.md). Bevara fullupplösta original separat på privat lagringsplats med backup och använd optimerade WebP-kopior på GitHub Pages. Originalbilder ska inte ersättas av webbversionerna.
+Se [bildstandarden](docs/bildstandard.md). Bevara fullupplösta original i `bilder/<recept-id>/original/` i samma repository och använd optimerade WebP-kopior på GitHub Pages. Repositoryt är publikt, och originalen behöver en separat säkerhetskopia. Originalbilder ska inte ersättas av webbversionerna.
 
 ## Recept och foton
 
