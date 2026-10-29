@@ -36,5 +36,49 @@
       }
     ],
     "anteckningar": "Det går även bra att lägga till andra örter, till exempel timjan och rosmarin."
+  },
+  {
+    "id": "falukorv-caprese",
+    "titel": "Falukorv caprese",
+    "huvudkategori": "Korv",
+    "taggar": [
+      "Ugnsrätt",
+      "Vardagsmat"
+    ],
+    "portioner": "4 portioner",
+    "tillagningstid": "35 minuter",
+    "beskrivning": "Ugnsgratinerad falukorv med mozzarella, zucchini, tomat och paprika. Serveras med rostad potatis och spenat.",
+    "bilder": [],
+    "ingredienser": [
+      "800 g potatis",
+      "Rapsolja",
+      "Salt",
+      "550 g falukorv",
+      "125 g mozzarella",
+      "½ zucchini",
+      "2 tomater",
+      "1 paprika",
+      "Olivolja",
+      "Salt",
+      "Svartpeppar",
+      "50 g riven mozzarella",
+      "25 g dill",
+      "70 g spenat"
+    ],
+    "instruktioner": [
+      {
+        "text": "Sätt ugnen på 225 grader. Tvätta och klyfta potatisen, lägg den på en plåt och vänd runt med rapsolja och salt. Rosta mitt i ugnen i cirka 30 minuter."
+      },
+      {
+        "text": "Skär falukorv, mozzarella, zucchini, tomat och paprika i skivor. Varva allt i en ugnsform."
+      },
+      {
+        "text": "Ringla över olivolja och krydda med salt och peppar. Strö över den rivna mozzarellan. Gratinera mitt i ugnen i cirka 15 minuter och strö över hackad dill."
+      },
+      {
+        "text": "Servera med spenat."
+      }
+    ],
+    "anteckningar": "Tips: Vill du ha en vinägrett till spenatsalladen? Mixa dill med senap, vinäger och olja och vänd runt med spenaten."
   }
 ]
