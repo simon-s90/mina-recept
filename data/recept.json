@@ -224,5 +224,50 @@
       }
     ],
     "anteckningar": "Gräddningstiden kan behöva förlängas något, eventuellt till 17 minuter."
+  },
+  {
+    "id": "bearnaisesas",
+    "titel": "Bearnaisesås",
+    "huvudkategori": "Såser",
+    "taggar": [
+      "Klassiskt",
+      "Tillbehör"
+    ],
+    "portioner": "3–4 portioner",
+    "beskrivning": "Krämig hemlagad bearnaisesås med dragon, körvel och schalottenlök. En klassisk smörsås som passar till exempelvis grillat kött.",
+    "bilder": [],
+    "ingredienser": [
+      "250 g smör",
+      "4 äggulor",
+      "3 schalottenlökar, finhackade",
+      "4 msk hackad dragon (eller 2 msk torkad)",
+      "2 msk hackad körvel eller persilja",
+      "200 ml vitt vin",
+      "50 ml vitvinsvinäger eller vit balsamvinäger",
+      "2 tsk koncentrerad flytande kalvfond",
+      "Svartpeppar",
+      "Salt"
+    ],
+    "instruktioner": [
+      {
+        "text": "Klarifiera smöret, det vill säga smält det försiktigt och skilj det klara smörfettet från mjölkproteinerna."
+      },
+      {
+        "text": "Fräs den finhackade schalottenlöken försiktigt i lite av smöret. Tillsätt nästan all dragon, vinäger, vitt vin och svartpeppar. Reducera tills cirka 1 matsked vätska återstår."
+      },
+      {
+        "text": "Tillsätt resten av dragonen, körvel eller persilja samt kalvfonden."
+      },
+      {
+        "text": "Tillsätt äggulorna och vispa till en fluffig konsistens på mycket försiktig värme. Håll temperaturen så låg att du precis kan hålla handen mot grytans undersida."
+      },
+      {
+        "text": "Ta grytan från värmen. Häll långsamt ner det klarifierade smöret medan du vispar kraftigt tills såsen är tjock och krämig."
+      },
+      {
+        "text": "Smaka av med salt och svartpeppar. Tillsätt eventuellt lite mer kalvfond eller vinäger efter smak."
+      }
+    ],
+    "anteckningar": "Om du använder dragon i vinäger ska du utesluta den extra vitvinsvinägern. Vitt vin kan ersättas med vatten. Börja gärna med mindre vinäger och tillsätt mer i slutet efter smak. Rödvinsvinäger fungerar också. Vit balsamvinäger ger en mildare och fylligare smak."
   }
 ]
