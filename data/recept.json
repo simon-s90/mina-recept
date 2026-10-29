@@ -82,5 +82,56 @@
       }
     ],
     "anteckningar": "Tips: Vill du ha en vinägrett till spenatsalladen? Mixa dill med senap, vinäger och olja och vänd runt med spenaten."
+  },
+  {
+    "id": "kramig-saffranspasta-med-rakor",
+    "titel": "Krämig saffranspasta med räkor",
+    "huvudkategori": "Pasta",
+    "taggar": [
+      "Skaldjur",
+      "Festmat"
+    ],
+    "portioner": "4 portioner",
+    "beskrivning": "En krämig saffranspasta med räkor, vitt vin, citron, parmesan och dill.",
+    "bilder": [
+      "bilder/kramig-saffranspasta-med-rakor/huvudbild.webp"
+    ],
+    "ingredienser": [
+      "Pappardelle eller valfri pasta",
+      "3 schalottenlökar",
+      "2 vitlöksklyftor eller ½–1 solovitlök",
+      "1 röd chili, tunt skivad",
+      "3 dl vitt vin",
+      "3 dl grädde",
+      "0,5 g saffran (1 paket)",
+      "1 burk handskalade räkor i lag, ca 280 g avrunna",
+      "2–3 dl pastavatten",
+      "½ citron",
+      "1 dl riven parmesanost eller annan hårdost",
+      "1 näve hackad dill",
+      "Olivolja till stekning",
+      "Flingsalt",
+      "Svartpeppar efter smak",
+      "Garnering: riven parmesanost",
+      "Garnering: hackad dill"
+    ],
+    "instruktioner": [
+      {
+        "text": "Koka pastan al dente i välsaltat vatten enligt anvisningen på paketet, men korta koktiden med cirka 1–2 minuter. Spara cirka 3 dl pastavatten till såsen."
+      },
+      {
+        "text": "Finhacka schalottenlök och vitlök. Fräs på medelvärme i olivolja tills löken är mjuk och glansig."
+      },
+      {
+        "text": "Salta och peppra, tillsätt tunt skivad röd chili och häll på vinet. Låt reducera till ungefär hälften. Tillsätt saffran och grädde och låt småputtra i cirka 3 minuter. Rör ner riven ost och pastavatten."
+      },
+      {
+        "text": "Låt såsen småkoka tills den tjocknat något. Smaka av med citronjuice, hackad dill, salt och peppar. Vänd ner pastan. Tillsätt de avrunna räkorna precis före servering och blanda så att all pasta täcks av saffranssås."
+      },
+      {
+        "text": "Garnera med rikligt med hackad dill och riven parmesanost. Servera genast."
+      }
+    ],
+    "anteckningar": "För 3 portioner räcker 250 g pasta. Prova även med hälften mjölk. Som alternativ till räkor i lag: cirka 1,5 kg oskalade räkor."
   }
 ]
