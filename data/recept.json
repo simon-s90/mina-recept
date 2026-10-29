@@ -1,0 +1,40 @@
+[
+  {
+    "id": "citronmarinerade-kycklingspett",
+    "titel": "Citronmarinerade kycklingspett",
+    "huvudkategori": "Fågel",
+    "taggar": [
+      "Grillat",
+      "Marinerat"
+    ],
+    "portioner": "3 personer (ca 800 g kycklingfilé)",
+    "beskrivning": "Kycklingspett med citron, vitlök, oregano och sambal oelek. Marinera gärna över natten före grillningen.",
+    "bilder": [],
+    "ingredienser": [
+      "Ca 800 g kycklingfilé",
+      "1 citron (ca 0,5 dl saft)",
+      "Finrivet skal (zest) från citronen",
+      "2 tsk sambal oelek",
+      "2,5 tsk salt",
+      "2–3 msk oregano",
+      "0,5 dl olja",
+      "4 vitlöksklyftor",
+      "Peppar"
+    ],
+    "instruktioner": [
+      {
+        "text": "Skär kycklingen i bitar."
+      },
+      {
+        "text": "Blanda citronens saft och zest med sambal oelek, salt, oregano, olja, vitlök och peppar. Lägg i kycklingbitarna och marinera, gärna över natten."
+      },
+      {
+        "text": "Trä kycklingbitarna på spett."
+      },
+      {
+        "text": "Grilla kycklingspetten tills kycklingen är genomstekt."
+      }
+    ],
+    "anteckningar": "Det går även bra att lägga till andra örter, till exempel timjan och rosmarin."
+  }
+]
