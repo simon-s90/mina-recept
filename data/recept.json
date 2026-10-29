@@ -176,5 +176,53 @@
       }
     ],
     "anteckningar": "Recept: Magnus Villnow & Henrik Norén."
+  },
+  {
+    "id": "saffransdrommar",
+    "titel": "Saffransdrömmar",
+    "huvudkategori": "Bakverk",
+    "taggar": [
+      "Småkakor",
+      "Saffran",
+      "Julbak"
+    ],
+    "portioner": "25–30 stycken",
+    "beskrivning": "Gyllengula, spröda saffranskakor som passar fint till adventsfika och julens kaffestunder.",
+    "bilder": [
+      "bilder/saffransdrommar/huvudbild.webp"
+    ],
+    "ingredienser": [
+      "0,5 g saffran",
+      "1 tsk sprit",
+      "50 g rumsvarmt smör",
+      "1,5 dl strösocker",
+      "0,5 dl matolja eller rapsolja",
+      "0,5 tsk hjorthornssalt eller 1 tsk bakpulver",
+      "2 dl vetemjöl"
+    ],
+    "instruktioner": [
+      {
+        "text": "Sätt ugnen på 150 grader."
+      },
+      {
+        "text": "Häll saffranet i botten på en bunke, tillsätt spriten och låt dra ett par minuter."
+      },
+      {
+        "text": "Lägg smör och socker i bunken och vispa samman till en gyllengul röra."
+      },
+      {
+        "text": "Tillsätt oljan lite i taget under omrörning. Blanda hjorthornssalt och vetemjöl, och arbeta sedan ner det i smeten till en smidig deg."
+      },
+      {
+        "text": "Rulla matskedsstora bollar av degen och lägg på en plåt med bakplåtspapper. Gör dem så stora att varje boll ryms i ett matskedsmått."
+      },
+      {
+        "text": "Grädda mitt i ugnen i cirka 15 minuter."
+      },
+      {
+        "text": "Låt kakorna kallna på plåten."
+      }
+    ],
+    "anteckningar": "Gräddningstiden kan behöva förlängas något, eventuellt till 17 minuter."
   }
 ]
