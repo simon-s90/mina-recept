@@ -235,7 +235,9 @@
     ],
     "portioner": "3–4 portioner",
     "beskrivning": "Krämig hemlagad bearnaisesås med dragon, körvel och schalottenlök. En klassisk smörsås som passar till exempelvis grillat kött.",
-    "bilder": [],
+    "bilder": [
+      "bilder/bearnaisesas/huvudbild.webp"
+    ],
     "ingredienser": [
       "250 g smör",
       "4 äggulor",
