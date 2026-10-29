@@ -271,5 +271,42 @@
       }
     ],
     "anteckningar": "Om du använder dragon i vinäger ska du utesluta den extra vitvinsvinägern. Vitt vin kan ersättas med vatten. Börja gärna med mindre vinäger och tillsätt mer i slutet efter smak. Rödvinsvinäger fungerar också. Vit balsamvinäger ger en mildare och fylligare smak."
+  },
+  {
+    "id": "vetedeg-enkel",
+    "titel": "Vetedeg, enkel",
+    "huvudkategori": "Bakverk",
+    "taggar": [
+      "Grundrecept",
+      "Kardemumma",
+      "Vetebröd"
+    ],
+    "portioner": "2 längder eller 1 plåt bullar",
+    "beskrivning": "En enkel vetedeg med nymortlad kardemumma som bara behöver blandas, inte knådas. En grunddeg för bullar, vetelängder eller skorpor.",
+    "bilder": [
+      "bilder/vetedeg-enkel/huvudbild.webp"
+    ],
+    "ingredienser": [
+      "7 g nymortlade kardemummakärnor",
+      "125 g smör",
+      "125 g mjölk",
+      "125 g kallt vatten",
+      "75 g strösocker",
+      "3 g salt",
+      "430 g vetemjöl special",
+      "20 g jäst"
+    ],
+    "instruktioner": [
+      {
+        "text": "Mortla kardemumman och skär smöret i tunna skivor. Blanda samtliga ingredienser utom ungefär hälften av mjölet i en bunke till en någotsånär jämn smet. Tillsätt resten av mjölet och rör ihop till en deg. Degen behöver inte knådas, bara blandas tills den precis går ihop. Täck bunken med lock eller plastfolie och låt vila i rumstemperatur i cirka 1½ timme."
+      },
+      {
+        "text": "Skrapa ut degen på ett lätt mjölat bakbord. Forma den till en slät bulle genom att vika in kanterna mot mitten och vänd sedan så att skarven hamnar nedåt. Ta hjälp av en degskrapa om det behövs. Strö på mjöl, täck med plastfolie och låt jäsa i cirka 1½ timme i rumstemperatur eller upp till 10 timmar i kylskåp."
+      },
+      {
+        "text": "Nu är degen klar att bakas ut till bullar, längder eller skorpor."
+      }
+    ],
+    "anteckningar": "Inspiration från boken Bröd, bröd, bröd av Martin Johansson. Receptet avser grunddegen; utbakning och gräddning beror på vilket bakverk du väljer."
   }
 ]
