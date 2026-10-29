@@ -1,7 +1,7 @@
 # Bildstandard – webbplats och framtida kokbok
 
 **Projekt:** Receptboken  
-**Status:** Riktlinje version 1, 29 oktober 2026  
+**Status:** Riktlinje version 1.1, 29 oktober 2026  
 **Mål:** Säkra bildernas ursprungliga kvalitet för en eventuell tryckt kokbok, samtidigt som hemsidan är snabb.
 
 ## 1. Grundprincip: en bild, två användningsversioner
@@ -45,34 +45,34 @@ Utgångspunkt för nya huvudfoton: **helst minst 3000–4000 px på längsta sid
 - Små förhandsvisningar kan genereras separat senare om arkivet växer.
 - Ingen reklamtext, vattenmärkning eller grafik på fotot.
 
-## 4. Lagring och mappstruktur
+## 4. Lagring och mappstruktur – beslut: samma repository
 
-**GitHub Pages ska bara behöva läsa webbkopior.** GitHub-repositoryt `simon-s90/mina-recept` är publikt, så högupplösta original ska **inte slentrianmässigt** läggas där.
+**Vi lagrar tills vidare både högupplösta original och optimerade webbversioner i samma repository:** `simon-s90/mina-recept`. Detta förenklar administrationen och gör att materialet till en eventuell bok ligger samlat med recepten.
 
-Föreslagen organisation:
+Rekommenderad struktur:
 
 ```text
-Bildarkiv (separat, privat lagringsplats – väljs senare)
-  falukorv-caprese/
-    original/
-      foto-01.png                <- orörd master
-    metadata.md                  <- källa, fotograf, rättigheter, bildstorlek, noteringar
-
-mina-recept (publikt GitHub Pages-repository)
+mina-recept/
   bilder/
     falukorv-caprese/
-      huvudbild.webp             <- webbversion
-      extra-01.webp              <- webbversion
-      steg-01.webp               <- ev. stegbild
+      original/
+        huvudbild.png             <- högsta tillgängliga original, ej nedskalad
+      huvudbild.webp              <- komprimerad webbkopia
+      extra-01.webp               <- ytterligare webbkopia (om tillämpligt)
+      steg-01.webp                <- eventuell bild till instruktionssteg
+      bildinfo.md                 <- källa, rättigheter, originalmått, fotograf
   data/
-    recept.json                  <- länkar bara till webbversioner
+    recept.json                   <- referenser bara till webbkopior
 ```
 
-Mastern kan ligga på en separat privat molnlagringsplats med säkerhetskopia eller i ett separat privat bildarkiv. Lagringsplattformen beslutas innan vi börjar bygga ett större fotoarkiv.
+**Viktigt att känna till:**
+- Repositoryt är **publikt**. Alla original som sparas där kan läsas och laddas ned av andra, även om recepten inte länkar till dem. De kan även ingå i publicerade GitHub Pages-filer när Pages publicerar hela rotmappen. Lägg därför inte in privata eller rättighetsbegränsade original som inte får vara offentliga.
+- GitHub rekommenderar repositories under cirka **1 GB**. GitHub Pages har dessutom ett tak på **1 GB för den publicerade webbplatsen**. När antalet högupplösta original ökar måste vi följa storleken och vid behov publicera enbart webbkopior via separat byggflöde, eller flytta originalarkivet till en särskild gren eller lagringsplats.
+- Vanlig Git har en hårdgräns på **100 MiB per enskild fil**. Git LFS kan användas för stora filer i ett repository men kan **inte** användas som direkt bildkälla i GitHub Pages.
+- **GitHub är inte vår enda backup.** Ta en separat säkerhetskopia av originalbilderna, exempelvis lokalt eller i molnet. Om original raderas eller ersätts på GitHub ska en oförändrad kopia fortfarande finnas kvar.
+- Vi ska inte automatiskt förstora eller komprimera original som bara finns i låg upplösning; dokumentera i stället deras begränsningar för tryck.
 
-**GitHub är inte en backupstrategi för originalfoton.** Undvik att lagra stora mängder original i det publika webb-repositoryt. GitHub rekommenderar relativt små repositories (helst under cirka 1 GB), och Git LFS kan inte användas direkt i GitHub Pages.
-
-För varje original ska minst en separat **säkerhetskopia** finnas på en annan plats. Bildarkivet ska vara möjligt att exportera utan beroende av webbplatsens design eller filformat.
+Den här lösningen används tills projektets storlek eller integritets-/rättighetskrav motiverar en annan arkitektur.
 
 ## 5. Spårbarhet mellan bild och recept
 
@@ -92,7 +92,7 @@ I `data/recept.json` används fortsatt `bilder` för receptbilder och `instrukti
 1. Spara användarens högsta tillgängliga original **före** storleksändring eller komprimering.
 2. Inspektera originalets upplösning, skärpa och eventuell text/reklam i motivet.
 3. Kontrollera att publicerings- och eventuella framtida tryckrättigheter finns.
-4. Arkivera master med tydlig koppling till recept-id och ordna säkerhetskopia.
+4. Lägg master i `bilder/<recept-id>/original/` på GitHub, med tydlig koppling till recept-id och separat säkerhetskopia, **förutsatt att offentlig lagring är tillåten**.
 5. Skapa separat webbkopia; optimera försiktigt och kontrollera resultatet.
 6. Ladda upp webbkopia till `bilder/<recept-id>/` på GitHub.
 7. Uppdatera receptets `bilder` eller `instruktioner[].bild`.
@@ -108,7 +108,7 @@ I `data/recept.json` används fortsatt `bilder` för receptbilder och `instrukti
 
 ## 8. Öppna beslut
 
-- Var det privata masterarkivet ska lagras och hur backup ska skötas.
+- Exakt metod och plats för den separata säkerhetskopian av originalbilderna.
 - Om den framtida kokboken ska vara t.ex. A5, A4 eller annat format, vilket bestämmer den verkliga bildytan.
 - Färghantering, utfall och tryckprofiler när tryckeri har valts.
 
