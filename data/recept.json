@@ -358,7 +358,9 @@
     ],
     "portioner": "Ej angivet",
     "beskrivning": "En krämig vitvinssås med schalottenlök, Pinot Gris, grädde, citron och dill.",
-    "bilder": [],
+    "bilder": [
+      "bilder/vitvinssas-med-dill-och-citron/huvudbild.webp"
+    ],
     "ingredienser": [
       "3 schalottenlökar",
       "Smör (mängd ej angiven)",
