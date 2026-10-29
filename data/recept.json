@@ -133,5 +133,46 @@
       }
     ],
     "anteckningar": "För 3 portioner räcker 250 g pasta. Prova även med hälften mjölk. Som alternativ till räkor i lag: cirka 1,5 kg oskalade räkor."
+  },
+  {
+    "id": "gros-jordartskockssoppa",
+    "titel": "Gros jordärtskockssoppa",
+    "huvudkategori": "Soppa",
+    "taggar": [
+      "Förrätt",
+      "Festmat"
+    ],
+    "portioner": "2–4 portioner",
+    "beskrivning": "Len jordärtskockssoppa med lök, vitlök, citronskal och crème fraiche. Servera gärna med tärnat äpple och en klick löjrom.",
+    "bilder": [
+      "bilder/gros-jordartskockssoppa/huvudbild.webp"
+    ],
+    "ingredienser": [
+      "1 gul lök, hackad",
+      "1 vitlöksklyfta, hackad",
+      "2 msk olja",
+      "400 g jordärtskockor, skalade och skurna i mindre bitar",
+      "1 rejäl klick smör",
+      "Fint rivet skal av ½ citron",
+      "2 lagerblad",
+      "5 dl vatten",
+      "1 dl crème fraiche",
+      "Salt"
+    ],
+    "instruktioner": [
+      {
+        "text": "Fräs lök och vitlök mjuka och genomskinliga i olja på medelhög värme i en kastrull."
+      },
+      {
+        "text": "Lägg i jordärtskockor, smör, citronskal och lagerblad. Vänd runt och lägg lock på kastrullen. Rör om någon gång i minuten och se till att det inte fastnar i botten. Tillsätt vatten när jordärtskockan börjar släppa stärkelse och binda ihop fräset. Låt sjuda tills skockorna är helt mjuka, cirka 15–20 minuter."
+      },
+      {
+        "text": "Lyft upp lagerbladen, tillsätt crème fraiche och mixa slätt. Smaksätt med salt."
+      },
+      {
+        "text": "Servera gärna soppan med tärnat äpple och en klick löjrom."
+      }
+    ],
+    "anteckningar": "Recept: Magnus Villnow & Henrik Norén."
   }
 ]
