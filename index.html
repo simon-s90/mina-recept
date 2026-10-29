@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#345047">
+  <meta name="description" content="En gammaldags receptsamling med skånsk allmogekänsla. Bläddra, sök och hitta något gott att laga.">
+  <title>Receptboken – Samlat med omsorg</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body data-page="hem">
+  <a class="skip-link" href="#innehall">Hoppa till innehåll</a>
+  <header class="site-header">
+    <div class="header-inner container">
+      <a class="brand" href="index.html" aria-label="Receptboken – startsida"><img src="assets/blomma.svg" alt="" aria-hidden="true"><span><strong>Receptboken</strong><small>Samlat med omsorg</small></span><img src="assets/blomma.svg" alt="" aria-hidden="true"></a>
+      <nav class="main-nav" aria-label="Huvudmeny"><a href="index.html" aria-current="page">Hem</a><a href="arkiv.html">Alla recept</a></nav>
+    </div>
+  </header>
+  <main id="innehall" class="container home-main">
+    <section class="hero paper-card" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <div class="flourish"><img src="assets/blomma.svg" alt=""></div>
+        <p class="eyebrow">Välkommen till receptsamlingen</p>
+        <h1 id="hero-title">Mat att laga.<br><em>Recept att bevara.</em></h1>
+        <p>Gamla favoriter och nya upptäckter, samlade som i ett gammaldags receptarkiv. Bläddra bland recepten och hitta något gott att laga.</p>
+        <form action="arkiv.html" method="get" class="home-search" role="search">
+          <label class="sr-only" for="home-search">Sök bland recepten</label>
+          <input type="search" id="home-search" name="q" placeholder="Vad vill du laga?" autocomplete="off">
+          <button type="submit">Sök recept <span aria-hidden="true">→</span></button>
+        </form>
+      </div>
+      <div class="hero-art" aria-label="Dekorativ illustration av kycklingspett och citron" role="img">
+        <img src="assets/grillspett-illustration.svg" alt="Illustration av kycklingspett med citron">
+        <span>Ur vårt kök</span>
+      </div>
+    </section>
+    <section class="home-feature" aria-labelledby="feature-title">
+      <div class="section-top"><div><p class="eyebrow">Ur receptsamlingen</p><h2 id="feature-title">Ett recept att börja med</h2></div><a class="text-link" href="arkiv.html">Se alla recept <span aria-hidden="true">→</span></a></div>
+      <div id="featured-recipe" class="recipe-grid" aria-live="polite"><p class="muted">Hämtar recept …</p></div>
+    </section>
+    <section class="note-strip" aria-label="Om receptarkivet"><img src="assets/blomma.svg" alt=""><p>En samling av recept att laga, spara och återvända till.</p><img src="assets/blomma.svg" alt=""></section>
+  </main>
+  <footer class="site-footer"><div class="container footer-inner"><span>✿ Receptboken</span><span>En samling att laga och bevara.</span></div></footer>
+</body>
+</html>
