@@ -48,7 +48,9 @@
     "portioner": "4 portioner",
     "tillagningstid": "35 minuter",
     "beskrivning": "Ugnsgratinerad falukorv med mozzarella, zucchini, tomat och paprika. Serveras med rostad potatis och spenat.",
-    "bilder": [],
+    "bilder": [
+      "bilder/falukorv-caprese/huvudbild.webp"
+    ],
     "ingredienser": [
       "800 g potatis",
       "Rapsolja",
