@@ -16,6 +16,10 @@ Första versionen av en recepthemsida i gammaldags skånsk allmogestil, avsedd f
 
 **Följ alltid [mallen och instruktionerna för nya recept](docs/receptmall.md).** En kopierbar [JSON-mall](docs/receptmall.json) finns också. Nya recept ska läggas till i `data/recept.json`, inte få egna HTML-sidor.
 
+## Bildkvalitet för webb och framtida kokbok
+
+Se [bildstandarden](docs/bildstandard.md). Bevara fullupplösta original separat på privat lagringsplats med backup och använd optimerade WebP-kopior på GitHub Pages. Originalbilder ska inte ersättas av webbversionerna.
+
 ## Recept och foton
 
 All receptdata finns i `data/recept.json`. Varje recept är ett objekt i listan.
