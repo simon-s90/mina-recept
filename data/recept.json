@@ -308,5 +308,43 @@
       }
     ],
     "anteckningar": "Inspiration från boken Bröd, bröd, bröd av Martin Johansson. Receptet avser grunddegen; utbakning och gräddning beror på vilket bakverk du väljer."
+  },
+  {
+    "id": "majonnas",
+    "titel": "Majonnäs",
+    "huvudkategori": "Såser",
+    "taggar": [
+      "Grundrecept",
+      "Tillbehör"
+    ],
+    "portioner": "Ej angivet",
+    "beskrivning": "Hemgjord, krämig majonnäs med dijonsenap och vitvinsvinäger. Görs enkelt direkt i en liten glasburk med stavmixer.",
+    "bilder": [
+      "bilder/majonnas/huvudbild.webp"
+    ],
+    "ingredienser": [
+      "1 helt ägg",
+      "1–1,5 tsk dijonsenap",
+      "1–4 tsk vitvinsvinäger",
+      "1 krm salt",
+      "2 dl rapsolja eller annan smaklös olja (inte olivolja)",
+      "Lite peppar (valfritt)",
+      "Lite paprika- eller cayennepepparpulver (valfritt)"
+    ],
+    "instruktioner": [
+      {
+        "text": "Blanda ägg, dijonsenap, vitvinsvinäger och salt samt eventuella kryddor i en liten glasburk."
+      },
+      {
+        "text": "Häll försiktigt på oljan så att den lägger sig ovanpå de övriga ingredienserna."
+      },
+      {
+        "text": "Sänk ner stavmixern till botten och börja mixa. Håll den stilla i botten och lyft den inte för snabbt. Du ska se att majonnäsen sakta börjar bildas och bli krämig."
+      },
+      {
+        "text": "Först när en stor del av blandningen har blivit majonnäs kan du försiktigt börja röra runt med stavmixern tills allt har gått ihop."
+      }
+    ],
+    "anteckningar": "Majonnäs görs traditionellt med äggula, men med bara äggula fick jag den inte att gå ihop när jag använde stavmixer. Därför använder jag ett helt ägg."
   }
 ]
