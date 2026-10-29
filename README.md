@@ -12,6 +12,10 @@ Första versionen av en recepthemsida i gammaldags skånsk allmogestil, avsedd f
 - **Inget** portionsreglage eller avbockning av steg.
 - Första receptet: **Citronmarinerade kycklingspett**.
 
+## Lägga till nya recept
+
+**Följ alltid [mallen och instruktionerna för nya recept](docs/receptmall.md).** En kopierbar [JSON-mall](docs/receptmall.json) finns också. Nya recept ska läggas till i `data/recept.json`, inte få egna HTML-sidor.
+
 ## Recept och foton
 
 All receptdata finns i `data/recept.json`. Varje recept är ett objekt i listan.
