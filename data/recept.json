@@ -404,7 +404,9 @@
     ],
     "portioner": "Ca 20 g kryddblandning",
     "beskrivning": "Ett försök att återskapa Werners Gourmetservice Curry Madras, som inte längre finns att köpa. Blandningen är framtagen med hjälp av ChatGPT.",
-    "bilder": [],
+    "bilder": [
+      "bilder/curry-madras/huvudbild.webp"
+    ],
     "ingredienser": [
       "7 g korianderfrö (malda efter rostning)",
       "5 g gurkmeja (mald)",
