@@ -1,0 +1,26 @@
+{
+  "id": "receptets-id",
+  "titel": "Receptets namn",
+  "huvudkategori": "Fågel",
+  "taggar": [
+    "Grillat",
+    "Marinerat"
+  ],
+  "portioner": "4 portioner",
+  "beskrivning": "En kort beskrivning av rätten, smaken och när den passar att laga.",
+  "bilder": [],
+  "ingredienser": [
+    "500 g råvara",
+    "2 msk ingrediens",
+    "Salt och peppar"
+  ],
+  "instruktioner": [
+    {
+      "text": "Beskriv det första steget i en tydlig mening."
+    },
+    {
+      "text": "Beskriv nästa steg. Lägg till en bild om det finns en bild av just detta moment."
+    }
+  ],
+  "anteckningar": "Tips, variationer och sådant som är bra att komma ihåg."
+}
