@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#345047">
+  <meta name="description" content="Sök och filtrera recept efter maträttstyp och valfria taggar i Receptbokens arkiv.">
+  <title>Alla recept – Receptboken</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body data-page="arkiv">
+  <a class="skip-link" href="#innehall">Hoppa till innehåll</a>
+  <header class="site-header"><div class="header-inner container"><a class="brand" href="index.html" aria-label="Receptboken – startsida"><img src="assets/blomma.svg" alt="" aria-hidden="true"><span><strong>Receptboken</strong><small>Samlat med omsorg</small></span><img src="assets/blomma.svg" alt="" aria-hidden="true"></a><nav class="main-nav" aria-label="Huvudmeny"><a href="index.html">Hem</a><a href="arkiv.html" aria-current="page">Alla recept</a></nav></div></header>
+  <main id="innehall" class="container archive-main">
+    <div class="archive-sheet paper-card">
+      <div class="archive-heading"><div class="flourish"><img src="assets/blomma.svg" alt=""></div><p class="eyebrow">Bläddra bland våra favoriter</p><h1>Receptarkivet</h1><p>Hitta ett recept med hjälp av sökfältet, välj en huvudkategori eller kombinera flera taggar.</p></div>
+      <section class="filter-panel" aria-labelledby="filter-title"><h2 id="filter-title">Sök och filtrera</h2>
+        <div class="filter-controls">
+          <div class="field"><label for="recipe-search">Sök recept</label><input type="search" id="recipe-search" placeholder="Sök efter ett recept ..." autocomplete="off"></div>
+          <div class="field"><label for="category-filter">Huvudkategori</label><select id="category-filter"><option value="">Alla kategorier</option></select></div>
+        </div>
+        <div class="tag-field"><h3>Taggar <small>(välj flera)</small></h3><div id="tag-filters" class="tag-buttons" role="group" aria-label="Filtrera efter taggar"></div></div>
+        <div class="filter-footer"><p>Recepten måste matcha samtliga valda taggar.</p><button id="clear-filters" type="button" class="outline-button">Rensa filter</button></div>
+      </section>
+      <div class="section-top list-heading"><h2>Recept</h2><p id="result-count" class="muted" aria-live="polite"></p></div>
+      <div id="recipe-list" class="recipe-grid" aria-live="polite"><p class="muted">Hämtar recept …</p></div>
+    </div>
+  </main>
+  <footer class="site-footer"><div class="container footer-inner"><span>✿ Receptboken</span><span>En samling att laga och bevara.</span></div></footer>
+</body>
+</html>
