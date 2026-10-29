@@ -346,5 +346,49 @@
       }
     ],
     "anteckningar": "Majonnäs görs traditionellt med äggula, men med bara äggula fick jag den inte att gå ihop när jag använde stavmixer. Därför använder jag ett helt ägg."
+  },
+  {
+    "id": "vitvinssas-med-dill-och-citron",
+    "titel": "Vitvinssås med dill och citron",
+    "huvudkategori": "Såser",
+    "taggar": [
+      "Tillbehör",
+      "Dill",
+      "Citron"
+    ],
+    "portioner": "Ej angivet",
+    "beskrivning": "En krämig vitvinssås med schalottenlök, Pinot Gris, grädde, citron och dill.",
+    "bilder": [],
+    "ingredienser": [
+      "3 schalottenlökar",
+      "Smör (mängd ej angiven)",
+      "½ msk vetemjöl (valfritt, kanske inte behövs)",
+      "2 dl Pinot Gris (vitt vin)",
+      "2 dl grädde",
+      "Trocomare (efter smak)",
+      "Saft från ½ citron",
+      "Dill (mängd ej angiven)"
+    ],
+    "instruktioner": [
+      {
+        "text": "Smält smöret i en kastrull."
+      },
+      {
+        "text": "Finhacka schalottenlökarna och fräs dem försiktigt i smöret utan att de får färg."
+      },
+      {
+        "text": "Blanda i mjölet om du använder det."
+      },
+      {
+        "text": "Häll på vinet och låt det reducera något."
+      },
+      {
+        "text": "Tillsätt grädden och låt såsen reducera till önskad konsistens."
+      },
+      {
+        "text": "Smaksätt med Trocomare, citronsaft och dill."
+      }
+    ],
+    "anteckningar": "Mjölet är valfritt och kan eventuellt uteslutas. Smör, dill och Trocomare saknar exakta mängdangivelser i grundreceptet."
   }
 ]
