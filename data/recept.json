@@ -481,5 +481,44 @@
       }
     ],
     "anteckningar": "Alternativt kan ½ dl ättiksprit 24 % användas i stället för 1 dl ättiksprit 12 %, för att minska vätskemängden. Receptet anger ingen förvaringstid eller verifierad konserveringsmetod för rumstemperatur; förvara i kyl och anta inte att produkten är hyllstabil."
+  },
+  {
+    "id": "vaniljsas",
+    "titel": "Vaniljsås",
+    "huvudkategori": "Såser",
+    "taggar": [
+      "Dessert",
+      "Grundrecept",
+      "Sött"
+    ],
+    "portioner": "1 sats",
+    "beskrivning": "Klassisk hemgjord vaniljsås på mjölk, äggulor, socker och vaniljstång. Såsen blir lite lösare än köpevaniljsås och serveras kall.",
+    "bilder": [
+      "bilder/vaniljsas/huvudbild.webp"
+    ],
+    "ingredienser": [
+      "1 liter mjölk (eller hälften grädde)",
+      "10 äggulor",
+      "230 g socker",
+      "1–2 vaniljstänger"
+    ],
+    "instruktioner": [
+      {
+        "text": "Häll mjölken och eventuell grädde i en kastrull. Snitta vaniljstången och skrapa ner kärnorna i mjölken. Lägg även i vaniljstången. Koka upp och låt koka ett par minuter. Ta upp vaniljstången och låt svalna något."
+      },
+      {
+        "text": "Vispa äggulor och socker pösigt."
+      },
+      {
+        "text": "Tillsätt mjölken och vispa lite till. Häll sedan äggblandningen i kastrullen."
+      },
+      {
+        "text": "Låt sjuda sakta på svag värme under vispning tills såsen tjocknar. Såsen får inte koka, annars skär den sig. Håll temperaturen under 85 °C."
+      },
+      {
+        "text": "Kyl såsen."
+      }
+    ],
+    "anteckningar": "Enligt A. Escoffier används endast mjölk. Såsen blir lite lösare än köpevaniljsås. Vill du ha den tjockare kan du tillsätta 1–2 extra äggulor. Om du använder vaniljextrakt, tillsätt cirka 1 msk när såsen är klar."
   }
 ]
