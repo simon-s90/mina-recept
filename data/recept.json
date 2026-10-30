@@ -520,5 +520,56 @@
       }
     ],
     "anteckningar": "Enligt A. Escoffier används endast mjölk. Såsen blir lite lösare än köpevaniljsås. Vill du ha den tjockare kan du tillsätta 1–2 extra äggulor. Om du använder vaniljextrakt, tillsätt cirka 1 msk när såsen är klar."
+  },
+  {
+    "id": "mustig-linssoppa-med-tomat",
+    "titel": "Mustig linssoppa med tomat",
+    "huvudkategori": "Soppa",
+    "taggar": [
+      "Vegetariskt",
+      "Vardagsmat"
+    ],
+    "portioner": "4 portioner",
+    "beskrivning": "En mustig tomat- och linssoppa med röda linser, vitlök, curry och spiskummin. Klar på cirka 30 minuter.",
+    "bilder": [
+      "bilder/mustig-linssoppa-med-tomat/huvudbild.webp"
+    ],
+    "ingredienser": [
+      "2 klyftor vitlök",
+      "1 tsk chiliflakes",
+      "0,5 gul lök",
+      "350 g röda linser (torkade)",
+      "1 krm svartpeppar",
+      "2 msk tomatpuré",
+      "125 g körsbärstomater",
+      "1 tsk curry",
+      "0,5 tsk spiskummin",
+      "2 tsk vitvinsvinäger",
+      "2 msk grönsaksbuljongpulver",
+      "1 liter vatten",
+      "2 msk rapsolja",
+      "1 krm salt"
+    ],
+    "instruktioner": [
+      {
+        "text": "Skala och finhacka lök och vitlök."
+      },
+      {
+        "text": "Fräs lök och vitlök i olja tillsammans med kryddorna på låg värme."
+      },
+      {
+        "text": "Tillsätt tomatpuré och vinäger och fräs i cirka 30 sekunder."
+      },
+      {
+        "text": "Häll i linser, körsbärstomater, vatten och buljong. Låt sjuda på låg värme i cirka 20 minuter. Rör om ibland."
+      },
+      {
+        "text": "Späd eventuellt med mer vatten. Smaka av med salt och peppar."
+      },
+      {
+        "text": "Servera gärna med knäckebröd och pålägg."
+      }
+    ],
+    "anteckningar": "Tillagningstid: cirka 30 minuter. Angivet näringsvärde per portion: 438 kcal, 25 g protein, 8 g fett och 59 g kolhydrater."
   }
 ]
