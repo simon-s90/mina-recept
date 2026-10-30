@@ -434,5 +434,52 @@
       }
     ],
     "anteckningar": "Hemmagjord kopia av Werners Gourmetservice Curry Madras (WGS), framtagen med hjälp av ChatGPT. Originalblandningen säljs inte längre enligt receptets upphovsperson. Prova och justera kryddbalansen efter smak."
+  },
+  {
+    "id": "bostongurka",
+    "titel": "Bostongurka",
+    "huvudkategori": "Tillbehör",
+    "taggar": [
+      "Inläggningar",
+      "Hemmagjort",
+      "Grundrecept"
+    ],
+    "portioner": "1 sats (mängd ej angiven)",
+    "beskrivning": "Hemlagad bostongurka på finhackad gurka, gul lök och röd spetspaprika med senapsfrö, curry och dill.",
+    "bilder": [
+      "bilder/bostongurka/huvudbild.webp"
+    ],
+    "ingredienser": [
+      "Ca 1,2 kg gurka (ungefärlig vikt efter urkärning)",
+      "1½ gul lök",
+      "2 röda spetspaprikor",
+      "3 msk gula senapsfrö",
+      "5 g kalciumklorid",
+      "2 krm natriumbensoat",
+      "30 g salt utan jod och klumpförebyggande medel",
+      "230 g socker",
+      "1 dl ättiksprit 12 % eller ½ dl ättiksprit 24 %",
+      "3 toppade msk majsstärkelse (Maizena), utrörd i ½ dl vatten",
+      "Dill (mängd ej angiven)",
+      "3 krm curry"
+    ],
+    "instruktioner": [
+      {
+        "text": "Ta bort kärnhusen ur gurkorna. Hacka gurka, spetspaprika och gul lök mycket fint."
+      },
+      {
+        "text": "Lägg den hackade gurkan, paprikan och löken i en gryta tillsammans med senapsfrön, kalciumklorid, salt, socker, ättiksprit och curry."
+      },
+      {
+        "text": "Låt koka i 10–15 minuter. Smaka av."
+      },
+      {
+        "text": "Mot slutet av koktiden tillsätter du natriumbensoat och reder av med majsstärkelsen som rörts ut i vattnet."
+      },
+      {
+        "text": "Tillsätt dill när bostongurkan har kokat färdigt."
+      }
+    ],
+    "anteckningar": "Alternativt kan ½ dl ättiksprit 24 % användas i stället för 1 dl ättiksprit 12 %, för att minska vätskemängden. Receptet anger ingen förvaringstid eller verifierad konserveringsmetod för rumstemperatur; förvara i kyl och anta inte att produkten är hyllstabil."
   }
 ]
