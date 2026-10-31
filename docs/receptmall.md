@@ -38,7 +38,11 @@ INSTRUKTIONER
 2. [Nästa moment. Bild: valfritt filnamn.]
 
 ANTECKNINGAR
-[Tips, ersättningar, variationer, förberedelser – eller "Inga".]
+## Tips
+[Ett eller flera stycken med råd och variationer.]
+
+## Förvaring
+[Anteckningar om förvaring och förberedelser – eller "Inga".]
 ```
 
 ## 2. Fält som finns i den tekniska receptmallen
@@ -54,7 +58,7 @@ ANTECKNINGAR
 | `bilder` | Lista av bildsökvägar | `[]` om det saknas bilder, annars en eller flera vägar relativt webbplatsens rot. **Första bilden är huvudbild.** | Stor huvudbild samt miniatyrer vid fler bilder. |
 | `ingredienser` | Lista av texter | **Obligatoriskt.** En ingrediens per rad i ordning, med mängd/enhet när den är känd. | Ingrediensruta till vänster på dator. |
 | `instruktioner` | Lista av objekt | **Obligatoriskt.** Ett objekt per moment med `text`; valfritt `bild` och `bildtext`. | Numrerade moment till höger på dator. |
-| `anteckningar` | Text | Ange tips eller `""` om det inte finns anteckningar. | Egen tonad ruta när texten inte är tom. |
+| `anteckningar` | Text med enkel rubrikformatering | Skriv vanliga stycken, `## Rubrik` och `### Underrubrik`. Avskilj stycken med en tom rad. Använd `""` om anteckningar saknas. | Egen bred, tonad sektion under receptets två kolumner. |
 
 **Viktigt:** Hela webbplatsen använder dessa fältnamn exakt som de står. Skapa inte egna varianter som `receptnamn`, `kategori`, `steps` eller `photos`.
 
@@ -87,7 +91,7 @@ Filen [`docs/receptmall.json`](receptmall.json) innehåller samma objekt att utg
       "text": "Beskriv nästa steg. Lägg till en bild om det finns en bild av just detta moment."
     }
   ],
-  "anteckningar": "Tips, variationer och sådant som är bra att komma ihåg."
+  "anteckningar": "## Tips\nTips och råd.\n\n## Variationer\nAndra sätt att laga rätten."
 }
 ```
 
@@ -111,6 +115,24 @@ När ett recept har flera delar, till exempel **Kålblandning** och **Köttfärs
 ```
 
 Mängder och stavning ska följa originalreceptet. Lägg **inte** in grupprubrikerna som vanliga ingrediensrader.
+
+## Anteckningar med rubriker och stycken
+
+Fältet `anteckningar` kan innehålla **hur mycket text som behövs**. Använd enkel formatering, utan HTML:
+
+- En rad som börjar med `## ` blir en **rubrik** i anteckningssektionen.
+- En rad som börjar med `### ` blir en **underrubrik**.
+- En **tom rad** skiljer två stycken åt.
+- Vanlig text utan rubrikmarkörer visas som vanliga stycken. Befintliga recept med en enda anteckning fungerar fortfarande.
+- Använd `""` om receptet saknar anteckningar. Då visas ingen anteckningssektion.
+
+Exempel på JSON-värde:
+
+```json
+"anteckningar": "## Mina erfarenheter\nDet här fungerar särskilt bra om man förbereder dagen före.\n\nAndra stycket med fler detaljer.\n\n## Förvaring\nFörvara överbliven mat i kylskåp."
+```
+
+*Rubrikerna är en del av textfältet, inte egna JSON-objekt.* Anteckningarna visas i en egen bred sektion **under** ingredienser och instruktioner så att även långa texter blir lättlästa på dator och mobil.
 
 ## 4. Bilder – huvudbilder och bilder per instruktionssteg
 

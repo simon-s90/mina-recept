@@ -6,7 +6,7 @@ Första versionen av en recepthemsida i gammaldags skånsk allmogestil, avsedd f
 
 - **Startsida** (`index.html`) med sökfält och utvalt recept.
 - **Receptarkiv** (`arkiv.html`) med sökning på titel, en huvudkategori, flera valfria taggar och OCH-filtrering.
-- **Enskild receptsida** (`recept.html?id=...`) med titel, valfritt bildgalleri, beskrivning, portionsantal, ingredienser, stegvisa instruktioner och anteckningar.
+- **Enskild receptsida** (`recept.html?id=...`) med titel, valfritt bildgalleri, beskrivning, portionsantal, ingredienser, stegvisa instruktioner och anteckningar. Anteckningarna stödjer flera rubriker (`##`, `###`) och stycken, och får en egen bred sektion under receptet.
 - **Responsiv layout:** två kolumner för recept på dator och en kolumn på mobil.
 - Stöd för **en bild per tillagningssteg**, men inga tomma bildytor om en bild saknas.
 - **Inget** portionsreglage eller avbockning av steg.
