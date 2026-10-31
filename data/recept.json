@@ -582,7 +582,9 @@
     ],
     "portioner": "Ej angivet",
     "beskrivning": "Klassisk kålpudding med långbakad vitkål och köttfärssmet, gräddad i ugn.",
-    "bilder": [],
+    "bilder": [
+      "bilder/kalpudding/huvudbild.webp"
+    ],
     "ingredienser": [
       {
         "rubrik": "Kålblandning",
