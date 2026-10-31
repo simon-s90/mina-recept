@@ -53,7 +53,8 @@ ANTECKNINGAR
 | `titel` | Text | **Obligatoriskt.** Kort och tydlig svensk recepttitel. | Stor rubrik på receptsidan och rubrik på kort. |
 | `huvudkategori` | Text | **Obligatoriskt.** Exakt **en** kategori av typen maträtt. Återanvänd befintlig stavning. | Kategorietikett och kategori-filter. |
 | `taggar` | Lista av texter | En eller flera taggar om de passar; `[]` om inga behövs. Återanvänd exakt stavning och versaler. | Etiketter och fler-val-filter. |
-| `portioner` | Text | **Obligatoriskt.** Fast värde, t.ex. `4 portioner`, ingen automatisk uträkning. | Raden "Portioner: …". |
+| `portioner` | Text | Ange ett antal, t.ex. `4 portioner`, när det är känt. Använd `""` om receptet i stället anger mängd. | Raden "Portioner: …" när `mangd` saknas. |
+| `mangd` | Text (valfritt) | Använd vid recept som ger en mängd snarare än portioner, t.ex. `Ca 1,5 liter`. | Raden "Mängd: …", i stället för portionsrad. |
 | `beskrivning` | Text | **Obligatoriskt.** Några sammanhängande meningar, undvik att återge hela instruktionen. | Under receptbilderna och på receptkort. |
 | `bilder` | Lista av bildsökvägar | `[]` om det saknas bilder, annars en eller flera vägar relativt webbplatsens rot. **Första bilden är huvudbild.** | Stor huvudbild samt miniatyrer vid fler bilder. |
 | `ingredienser` | Lista av texter | **Obligatoriskt.** En ingrediens per rad i ordning, med mängd/enhet när den är känd. | Ingrediensruta till vänster på dator. |

@@ -642,5 +642,50 @@
       }
     ],
     "anteckningar": ""
+  },
+  {
+    "id": "brunkal",
+    "titel": "Brunkål",
+    "huvudkategori": "Tillbehör",
+    "taggar": [
+      "Julbord",
+      "Skånskt",
+      "Kål"
+    ],
+    "portioner": "",
+    "beskrivning": "Brunkål är en riktig klassiker på det skånska julbordet och för många är det inte en riktig skånsk jul utan brunkål som långkokts under flera timmars tid.",
+    "bilder": [
+      "bilder/brunkal/huvudbild.webp"
+    ],
+    "ingredienser": [
+      "1 kg vitkål",
+      "1/2 dl mörk sirap",
+      "2 msk soja",
+      "1 msk ättika (12 %) + 3 msk vatten",
+      "4 dl köttbuljong",
+      "30 g smör",
+      "2 krm kryddpeppar",
+      "1 krm vitpeppar",
+      "1 nypa salt"
+    ],
+    "instruktioner": [
+      {
+        "text": "Ta bort de två yttersta bladen och skär bort den grova stammen."
+      },
+      {
+        "text": "Strimla och grovhacka kålen i bitar som är cirka 2 cm."
+      },
+      {
+        "text": "Smält smöret i en stor kastrull och bryn kålen tills den får lite färg."
+      },
+      {
+        "text": "Blanda i sirap, soja, ättika och vatten, köttbuljong, kryddpeppar och vitpeppar. Låt koka på medelvärme under lock i cirka 4 timmar. Rör runt med jämna mellanrum."
+      },
+      {
+        "text": "Smaka av och tillsätt en nypa salt vid behov."
+      }
+    ],
+    "anteckningar": "## Tid och mängd\nFörberedelse: cirka 20 minuter. Tillagningstid: cirka 4 timmar. Total tid: cirka 4 timmar och 20 minuter. Receptet ger cirka 1,5 liter brunkål.\n\n## Om ättikan\nMatättika kan du blanda själv om du har 12 % ättika hemma. Då tar du 1 del ättika och 3 delar vatten. För detta recept blir det alltså 1 msk ättika och 3 msk vatten.\n\n## Snabbversion\nDu kan göra en snabbversion på brunkål om du har ont om tid. Då kan du koka på medelvärme i 1 timme, men jag rekommenderar att koka i minst 4 timmar, gärna längre.\n\n## Om brunkål\nBrunkål är en av de mest typiska rätterna på det skånska julbordet. En god och enkel rätt som blir godare ju längre du låter den koka.\n\nMånga recept anger att brunkålen ska koka runt 1 timme, men detta är alldeles för lite för den som vill ha smak och konsistens av klassisk skånsk brunkål. Konsistensen ska nämligen vara silkeslen. Även smaken blir djupare ju längre brunkålen tillagas.\n\nMed andra ord, ju mer kärlek du ger till brunkålen, desto bättre blir det. Här följer ett klassiskt recept på skånsk brunkål. Det enda tillägget är soja som enligt mig gör rätten ännu godare och smakrik.\n\n## Tips för att lyckas\nHa inte för bråttom. Brunkål är en rätt som kräver tid och tålamod för bästa resultat.\n\nAnvänd gärna en mörk sirap. Glöm inte att röra runt med jämna mellanrum och se till att det inte kokar torrt.\n\nTraditionellt används ej soja men jag tycker att det blir godare med soja. Ättika är ett viktigt inslag som ger en balans till brunkålen.\n\n## Servering och förvaring\nBrunkål kan serveras och ätas varm, ljummen eller kall, men aldrig rykande het. Servera på julbordet med prinskorv, julskinka och köttbullar.\n\nDu kan frysa in brunkål och steka upp vid ett senare tillfälle. Brunkålen håller ett par dagar i kylen. Förvara gärna i en lufttät burk.",
+    "mangd": "Ca 1,5 liter"
   }
 ]
