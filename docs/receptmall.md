@@ -93,6 +93,25 @@ Filen [`docs/receptmall.json`](receptmall.json) innehåller samma objekt att utg
 
 **Observera:** I den tekniska JSON-filen ska alla fältnamn och textvärden ha dubbla citattecken. Skriv inte kommentarer inne i JSON och avsluta inte det sista objektet eller sista listvärdet med ett extra kommatecken.
 
+## Ingredienser med flera underrubriker
+
+När ett recept har flera delar, till exempel **Kålblandning** och **Köttfärssmet**, kan `ingredienser` innehålla grupper med `rubrik` och `poster`. Grupperna visas som separata rubriker och ingredienslistor, utan att övriga recept påverkas. Använd vanliga strängar för recept som inte behöver grupper.
+
+```json
+"ingredienser": [
+  {
+    "rubrik": "Kålblandning",
+    "poster": ["2 kg vitkål", "2½ dl grönsaksbuljong"]
+  },
+  {
+    "rubrik": "Köttfärssmet",
+    "poster": ["600 g köttfärs", "2 små ägg"]
+  }
+]
+```
+
+Mängder och stavning ska följa originalreceptet. Lägg **inte** in grupprubrikerna som vanliga ingrediensrader.
+
 ## 4. Bilder – huvudbilder och bilder per instruktionssteg
 
 **Viktigt för framtida kokbok:** Följ även [bildstandarden](bildstandard.md). Bevara alltid fullupplöst original i `bilder/<recept-id>/original/` (endast om bilden får vara offentlig) och dessutom i en separat säkerhetskopia innan du skapar webbkopia. Webbversionen i GitHub får aldrig vara den enda bevarade versionen av en bild.

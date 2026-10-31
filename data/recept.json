@@ -571,5 +571,73 @@
       }
     ],
     "anteckningar": "Tillagningstid: cirka 30 minuter. Angivet näringsvärde per portion: 438 kcal, 25 g protein, 8 g fett och 59 g kolhydrater."
+  },
+  {
+    "id": "kalpudding",
+    "titel": "Kålpudding",
+    "huvudkategori": "Kött",
+    "taggar": [
+      "Husmanskost",
+      "Ugnsrätt"
+    ],
+    "portioner": "Ej angivet",
+    "beskrivning": "Klassisk kålpudding med långbakad vitkål och köttfärssmet, gräddad i ugn.",
+    "bilder": [],
+    "ingredienser": [
+      {
+        "rubrik": "Kålblandning",
+        "poster": [
+          "2 kg vitkål",
+          "2½ dl grönsaksbuljong",
+          "1 msk kalvfond",
+          "2 msk soja",
+          "Salt",
+          "Trocomare",
+          "½ dl sirap",
+          "Smör"
+        ]
+      },
+      {
+        "rubrik": "Köttfärssmet",
+        "poster": [
+          "600 g köttfärs",
+          "1 msk råriven gul lök",
+          "1 tsk salt",
+          "Svartpeppar",
+          "½ tsk Trocomare",
+          "1 msk soja",
+          "2 små ägg",
+          "2 nykokta potatisar, rivna",
+          "2½ dl mjölk"
+        ]
+      }
+    ],
+    "instruktioner": [
+      {
+        "text": "Sätt ugnen på 200 °C."
+      },
+      {
+        "text": "Strimla vitkålen och lägg den i en långpanna."
+      },
+      {
+        "text": "Blanda grönsaksbuljong, kalvfond, soja, salt, Trocomare, smör och sirap. Häll blandningen över kålen."
+      },
+      {
+        "text": "Tillaga kålen i ugnen i cirka 3 timmar."
+      },
+      {
+        "text": "Blanda köttfärsen med råriven lök, salt, svartpeppar, Trocomare, soja, ägg och riven potatis. Tillsätt mjölken och blanda till en jämn smet."
+      },
+      {
+        "text": "Blanda ner cirka två tredjedelar av den tillagade kålen i köttfärssmeten."
+      },
+      {
+        "text": "Lägg smeten i en ugnsform och fördela resten av kålen ovanpå."
+      },
+      {
+        "text": "Tillaga i 200 °C i cirka 45 minuter."
+      }
+    ],
+    "anteckningar": ""
   }
 ]
