@@ -687,5 +687,79 @@
     ],
     "anteckningar": "## Tid och mängd\nFörberedelse: cirka 20 minuter. Tillagningstid: cirka 4 timmar. Total tid: cirka 4 timmar och 20 minuter. Receptet ger cirka 1,5 liter brunkål.\n\n## Om ättikan\nMatättika kan du blanda själv om du har 12 % ättika hemma. Då tar du 1 del ättika och 3 delar vatten. För detta recept blir det alltså 1 msk ättika och 3 msk vatten.\n\n## Snabbversion\nDu kan göra en snabbversion på brunkål om du har ont om tid. Då kan du koka på medelvärme i 1 timme, men jag rekommenderar att koka i minst 4 timmar, gärna längre.\n\n## Om brunkål\nBrunkål är en av de mest typiska rätterna på det skånska julbordet. En god och enkel rätt som blir godare ju längre du låter den koka.\n\nMånga recept anger att brunkålen ska koka runt 1 timme, men detta är alldeles för lite för den som vill ha smak och konsistens av klassisk skånsk brunkål. Konsistensen ska nämligen vara silkeslen. Även smaken blir djupare ju längre brunkålen tillagas.\n\nMed andra ord, ju mer kärlek du ger till brunkålen, desto bättre blir det. Här följer ett klassiskt recept på skånsk brunkål. Det enda tillägget är soja som enligt mig gör rätten ännu godare och smakrik.\n\n## Tips för att lyckas\nHa inte för bråttom. Brunkål är en rätt som kräver tid och tålamod för bästa resultat.\n\nAnvänd gärna en mörk sirap. Glöm inte att röra runt med jämna mellanrum och se till att det inte kokar torrt.\n\nTraditionellt används ej soja men jag tycker att det blir godare med soja. Ättika är ett viktigt inslag som ger en balans till brunkålen.\n\n## Servering och förvaring\nBrunkål kan serveras och ätas varm, ljummen eller kall, men aldrig rykande het. Servera på julbordet med prinskorv, julskinka och köttbullar.\n\nDu kan frysa in brunkål och steka upp vid ett senare tillfälle. Brunkålen håller ett par dagar i kylen. Förvara gärna i en lufttät burk.",
     "mangd": "Ca 1,5 liter"
+  },
+  {
+    "id": "minestronesoppa-med-rokt-skinka-vitkal-och-rotfrukter",
+    "titel": "Minestronesoppa med rökt skinka, vitkål och rotfrukter",
+    "huvudkategori": "Soppa",
+    "taggar": [
+      "Italienskt",
+      "Lättlagad",
+      "Vardagsmat"
+    ],
+    "portioner": "",
+    "beskrivning": "En mustig och matig italiensk soppa med rökt skinka, vitkål, rotselleri, paprika, vita bönor och pasta. Grönsakerna ger en fin sötma som balanseras av skinkans rökiga sälta.",
+    "bilder": [
+      "bilder/minestronesoppa-med-rokt-skinka-vitkal-och-rotfrukter/huvudbild.webp"
+    ],
+    "ingredienser": [
+      {
+        "rubrik": "Till soppan",
+        "poster": [
+          "2 msk olivolja",
+          "1 gul lök",
+          "3 vitlöksklyftor",
+          "2 morötter",
+          "200 g rotselleri",
+          "150–200 g vitkål",
+          "1 röd paprika",
+          "2 medelstora potatisar",
+          "200–250 g rökt skinka, tärnad",
+          "2 msk tomatpuré",
+          "1 burk krossade tomater (400 g)",
+          "1,2 liter grönsaks- eller kycklingbuljong",
+          "1 tsk torkad oregano",
+          "1 tsk torkad timjan",
+          "1 lagerblad",
+          "1 burk kokta vita bönor (ca 230 g avrunnen vikt)",
+          "100 g små pastaformer, till exempel makaroner",
+          "2 nävar färsk spenat",
+          "Salt och nymalen svartpeppar"
+        ]
+      },
+      {
+        "rubrik": "Till servering",
+        "poster": [
+          "Färskriven parmesan",
+          "Färsk basilika eller persilja",
+          "Extra jungfruolivolja",
+          "Gott bröd"
+        ]
+      }
+    ],
+    "instruktioner": [
+      {
+        "text": "Förbered ingredienserna. Finhacka lök och vitlök. Skala och tärna morötter, rotselleri och potatis. Strimla vitkålen tunt och skär paprikan i små bitar. Tärna skinkan."
+      },
+      {
+        "text": "Fräs skinkan. Hetta upp olivoljan i en stor gryta. Fräs skinkan i 2–3 minuter tills den får lite färg. Lyft upp och lägg åt sidan."
+      },
+      {
+        "text": "Fräs grönsakerna. Fräs lök, morötter, rotselleri och vitkål i samma gryta på medelvärme i 7–8 minuter. Rör om då och då så att kålen mjuknar och får lite sötma. Tillsätt paprika och vitlök och fräs ytterligare 2 minuter."
+      },
+      {
+        "text": "Bygg upp smaken. Rör ner tomatpurén och låt fräsa i 1–2 minuter. Tillsätt potatis, krossade tomater, buljong, oregano, timjan och lagerblad."
+      },
+      {
+        "text": "Låt soppan sjuda. Koka upp och sänk sedan värmen. Låt soppan sjuda under lock i cirka 15–20 minuter tills vitkålen och rotfrukterna nästan är mjuka."
+      },
+      {
+        "text": "Tillsätt bönor, pasta och skinka. Skölj bönorna och lägg dem i grytan tillsammans med pastan och den stekta skinkan. Låt sjuda ytterligare 8–12 minuter, tills pastan är färdig. Späd med vatten eller buljong om soppan blir för tjock."
+      },
+      {
+        "text": "Smaka av och servera. Rör ner spenaten och låt den mjukna någon minut. Ta bort lagerbladet. Smaka av med svartpeppar och eventuellt lite salt. Servera med parmesan, färska örter och en skvätt olivolja."
+      }
+    ],
+    "anteckningar": "## Tips för bästa resultat\n### Vitkålen\nLåt den fräsa ordentligt med rotfrukterna. Det ger en rundare, sötare smak.\n\n### Rökt skinka\nGer både sälta och rökighet. Vänta därför med att salta soppan.\n\n### Extra smak\nTillsätt gärna ½ tsk rökt paprikapulver tillsammans med tomatpurén.\n\n### Fylligare konsistens\nMosa lite av de vita bönorna direkt i grytan.\n\n### Matlådor\nOm du planerar att spara soppan, koka pastan separat och tillsätt den vid servering.\n\n## Resultatet\nEn rejäl, rustik minestronesoppa där vitkål och rotselleri ger djup, paprikan bidrar med sötma och den rökta skinkan ger en kraftig, mustig smak."
   }
 ]
