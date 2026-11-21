@@ -818,5 +818,48 @@
       }
     ],
     "anteckningar": "## Näringsvärde\n497 kcal, 33 g protein, 32 g fett och 14 g kolhydrater (enligt receptets uppgift)."
+  },
+  {
+    "id": "nattjasta-frukostbullar",
+    "titel": "Nattjästa frukostbullar",
+    "huvudkategori": "Bröd",
+    "taggar": [
+      "Frukostbröd",
+      "Nattjäst"
+    ],
+    "portioner": "6 bullar",
+    "beskrivning": "Frukostbullar som får jäsa i rumstemperatur och sedan långsamt i kyl över natten. Gräddas varma med ånga för en fin skorpa.",
+    "bilder": [
+      "bilder/nattjasta-frukostbullar/huvudbild.webp",
+      "bilder/nattjasta-frukostbullar/receptanteckning.webp"
+    ],
+    "ingredienser": [
+      "250 g mjöl",
+      "170 g vatten",
+      "4,5 g jäst",
+      "6 g salt",
+      "2 tsk honung eller sirap"
+    ],
+    "instruktioner": [
+      {
+        "text": "Blanda ihop ingredienserna i en bunke. Vänta med saltet tills du har tillsatt cirka en tredjedel av mjölet."
+      },
+      {
+        "text": "Låt degen jäsa i rumstemperatur i cirka 2 timmar. Vik och sträck degen var 30:e minut."
+      },
+      {
+        "text": "Låt sedan degen jäsa i kylen till nästa morgon."
+      },
+      {
+        "text": "Dela degen i 6 bitar och lägg dem på en bakplåt."
+      },
+      {
+        "text": "Snitta degen med ett rakblad."
+      },
+      {
+        "text": "Grädda i ugn på 250 °C i cirka 15 minuter. Spruta in vatten för att bilda ånga, särskilt i början av gräddningen."
+      }
+    ],
+    "anteckningar": "## Mjölförslag\n200 g ölandsvete och 50 g emmer eller annat fullkornsmjöl.\n\n## Originalrecept\nDen handskrivna receptanteckningen finns som extra bild. Originalfotot är bevarat i bildarkivet."
   }
 ]
