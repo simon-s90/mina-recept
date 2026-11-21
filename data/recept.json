@@ -772,7 +772,9 @@
     ],
     "portioner": "4 portioner",
     "beskrivning": "Kycklingfärsgryta med kokosgrädde, ingefära, vitlök, lime och spenat. Serveras med shiratakinudlar.",
-    "bilder": [],
+    "bilder": [
+      "bilder/kycklingfarsgryta/huvudbild.webp"
+    ],
     "ingredienser": [
       {
         "rubrik": "Kycklingfärsgryta",
