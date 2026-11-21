@@ -861,5 +861,66 @@
       }
     ],
     "anteckningar": "## Mjölförslag\n200 g ölandsvete och 50 g emmer eller annat fullkornsmjöl.\n\n## Originalrecept\nDen handskrivna receptanteckningen finns som extra bild. Originalfotot är bevarat i bildarkivet."
+  },
+  {
+    "id": "kavring",
+    "titel": "Kavring",
+    "huvudkategori": "Bröd",
+    "taggar": [
+      "Rågbröd",
+      "Långjäst"
+    ],
+    "portioner": "1 limpa (1,5-litersform)",
+    "beskrivning": "Mörk, saftig kavring med råg, mörk sirap, kummin, pomerans och flytande vört. Skållningen görs med hett kaffe och degen får jäsa långsamt.",
+    "bilder": [
+      "bilder/kavring/huvudbild.webp",
+      "bilder/kavring/receptsida-01.webp",
+      "bilder/kavring/receptsida-02.webp"
+    ],
+    "ingredienser": [
+      {
+        "rubrik": "Skållning",
+        "poster": [
+          "75 g rågmjöl",
+          "1½ tsk hel kummin",
+          "3 g malen pomerans",
+          "200 g hett kaffe"
+        ]
+      },
+      {
+        "rubrik": "Deg",
+        "poster": [
+          "5 g jäst",
+          "200 g mild naturell yoghurt",
+          "13 g salt",
+          "90 g mörk sirap eller brödsirap",
+          "170 g rågsikt (oblandad)",
+          "200 g vetemjöl",
+          "15 g flytande vört",
+          "Smält smör till pensling"
+        ]
+      }
+    ],
+    "instruktioner": [
+      {
+        "text": "Blanda rågmjöl, hel kummin och malen pomerans i en skål. Tillsätt det heta kaffet och blanda väl. Täck skålen och låt stå minst 2 timmar eller över natten."
+      },
+      {
+        "text": "Blanda skållningen med jäst, yoghurt, sirap, flytande vört och salt i en bunke. Tillsätt mjölet och rör ihop till en deg. Degen behöver inte knådas, utan bara röras tills den precis går ihop. Den ska vara ganska trög, men fortfarande möjlig att blanda för hand. Täck bunken och låt jäsa i rumstemperatur i cirka 8 timmar."
+      },
+      {
+        "text": "Smöra en brödform på 1,5 liter och klicka ner degen. Täck med bakhandduk och låt jäsa cirka 45–60 minuter, eller tills degen har rest sig några centimeter."
+      },
+      {
+        "text": "Sätt ugnen på 250 °C minst 30 minuter före gräddning."
+      },
+      {
+        "text": "Sätt in formen strax under mitten av ugnen och sänk temperaturen till 200 °C. Grädda i 45–60 minuter, tills innertemperaturen är cirka 97 °C. Om ytan blir för mörk, täck med aluminiumfolie. Ta ut brödet ur formen under de sista 10 minuterna och grädda utan form."
+      },
+      {
+        "text": "Ta ut brödet ur ugnen och pensla det med smält smör. Låt svalna innan du skär upp det."
+      }
+    ],
+    "anteckningar": "## Handskrivet original\nReceptet är avskrivet från två handskrivna sidor. Båda originalsidorna finns som extra bilder i receptets bildgalleri."
   }
 ]
