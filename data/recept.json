@@ -761,5 +761,60 @@
       }
     ],
     "anteckningar": "## Tips för bästa resultat\n### Vitkålen\nLåt den fräsa ordentligt med rotfrukterna. Det ger en rundare, sötare smak.\n\n### Rökt skinka\nGer både sälta och rökighet. Vänta därför med att salta soppan.\n\n### Extra smak\nTillsätt gärna ½ tsk rökt paprikapulver tillsammans med tomatpurén.\n\n### Fylligare konsistens\nMosa lite av de vita bönorna direkt i grytan.\n\n### Matlådor\nOm du planerar att spara soppan, koka pastan separat och tillsätt den vid servering.\n\n## Resultatet\nEn rejäl, rustik minestronesoppa där vitkål och rotselleri ger djup, paprikan bidrar med sötma och den rökta skinkan ger en kraftig, mustig smak."
+  },
+  {
+    "id": "kycklingfarsgryta",
+    "titel": "Kycklingfärsgryta",
+    "huvudkategori": "Fågel",
+    "taggar": [
+      "Asiatiskt",
+      "Vardagsmat"
+    ],
+    "portioner": "4 portioner",
+    "beskrivning": "Kycklingfärsgryta med kokosgrädde, ingefära, vitlök, lime och spenat. Serveras med shiratakinudlar.",
+    "bilder": [],
+    "ingredienser": [
+      {
+        "rubrik": "Kycklingfärsgryta",
+        "poster": [
+          "2 klyftor vitlök",
+          "2 krm salt",
+          "1 röd chilipeppar",
+          "1 lime",
+          "2 msk färsk ingefära",
+          "600 g kycklingfärs",
+          "1 purjolök",
+          "1 msk asiatisk fisksås",
+          "1 msk rapsolja",
+          "300 ml kokosgrädde",
+          "1 dl vatten",
+          "1 msk japansk soja",
+          "130 g färsk bladspenat",
+          "2 krm malen svartpeppar"
+        ]
+      },
+      {
+        "rubrik": "Tillbehör",
+        "poster": [
+          "1 lime",
+          "400 g shiratakinudlar"
+        ]
+      }
+    ],
+    "instruktioner": [
+      {
+        "text": "Finhacka purjolöken och skölj den noga. Skala och riv ingefära och vitlök. Skölj och finhacka chili."
+      },
+      {
+        "text": "Hetta upp olja i en stekpanna och fräs kycklingfärsen genomstekt. Tillsätt purjo, ingefära, vitlök och chili och fräs ytterligare tills löken har mjuknat."
+      },
+      {
+        "text": "Tillsätt fisksås, soja, kokosgrädde och vatten och låt puttra i 5 minuter. Tillsätt spenat och limesaft. Vänd runt och smaka av med salt och peppar."
+      },
+      {
+        "text": "Koka upp vatten till nudlarna. Värm nudlarna i 30 sekunder. Sila av vattnet och lägg upp nudlar och gryta i djupa tallrikar. Servera med en limeklyfta."
+      }
+    ],
+    "anteckningar": "## Näringsvärde\n497 kcal, 33 g protein, 32 g fett och 14 g kolhydrater (enligt receptets uppgift)."
   }
 ]
