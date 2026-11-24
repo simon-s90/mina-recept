@@ -922,5 +922,66 @@
       }
     ],
     "anteckningar": "## Handskrivet original\nReceptet är avskrivet från två handskrivna sidor. Båda originalsidorna finns som extra bilder i receptets bildgalleri."
+  },
+  {
+    "id": "lussekatter",
+    "titel": "Lussekatter",
+    "huvudkategori": "Bakverk",
+    "taggar": [
+      "Julbak",
+      "Saffran",
+      "Vetebröd"
+    ],
+    "portioner": "Ca 30 lussekatter",
+    "beskrivning": "Klassiska gyllengula lussekatter med saffran, smör, mjölk och en skvätt grädde. Bullarna jäser i två omgångar och gräddas gyllene.",
+    "bilder": [
+      "bilder/lussekatter/huvudbild.webp"
+    ],
+    "ingredienser": [
+      "250 g smör",
+      "1 g saffran",
+      "4,5 dl mjölk",
+      "0,5 dl vispgrädde",
+      "50 g jäst",
+      "1,5 dl socker",
+      "0,5 tsk salt",
+      "800 g vetemjöl + 50 g till utbakning",
+      "1 tsk vodka (till saffranet)",
+      "Russin till garnering",
+      "Uppvispat ägg till pensling"
+    ],
+    "instruktioner": [
+      {
+        "text": "Stöt saffranet med lite av sockret i en mortel och lös upp det i 1 tsk vodka."
+      },
+      {
+        "text": "Smält smöret i en kastrull. Häll i mjölken och grädden och värm till 37 °C. Blanda det lösta saffranet i degspadet."
+      },
+      {
+        "text": "Smula sönder jästen i en bunke och rör ut den med lite av degspadet."
+      },
+      {
+        "text": "Tillsätt resten av degspadet, salt, socker och vetemjöl."
+      },
+      {
+        "text": "Arbeta degen tills den blir blank och släpper bunken. Låt jäsa övertäckt i 30–40 minuter."
+      },
+      {
+        "text": "Knåda degen smidig på ett mjölat bakbord. Dela degen i två bitar och dela sedan varje bit i 15 delar."
+      },
+      {
+        "text": "Forma lussekatter och lägg cirka nio stycken på varje plåt."
+      },
+      {
+        "text": "Tryck ner russin som garnering och låt bullarna jäsa övertäckta i cirka 30 minuter."
+      },
+      {
+        "text": "Pensla de färdigjästa bullarna med uppvispat ägg."
+      },
+      {
+        "text": "Grädda mitt i ugnen i 225 °C i cirka 8 minuter, eller tills bullarna är cirka 92 °C inuti."
+      }
+    ],
+    "anteckningar": ""
   }
 ]
